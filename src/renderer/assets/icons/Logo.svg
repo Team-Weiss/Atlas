@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59.4" height="130.594" viewBox="0 0 59.4 130.594">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="29.7" height="74.251" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Logo" transform="translate(-20.63 -13)">
+    <g id="Group_1" data-name="Group 1" transform="translate(20.63 13)">
+      <g id="Group_4" data-name="Group 4" transform="translate(29.791 83.7)">
+        <path id="Path_2" data-name="Path 2" d="M17.442,0H0V27.985H17.442Z" transform="translate(0)" fill="#616fff"/>
+        <path id="Rectangle_7" data-name="Rectangle 7" d="M0,0H20.467a0,0,0,0,1,0,0V16.665a3,3,0,0,1-3,3H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(0 27.229)" fill="#616fff"/>
+      </g>
+      <g id="Group_3" data-name="Group 3" transform="translate(9.416 83.7)">
+        <path id="Path_2-2" data-name="Path 2" d="M0,0H17.442V27.985H0Z" transform="translate(3.025)" fill="#8194fc"/>
+        <path id="Rectangle_7-2" data-name="Rectangle 7" d="M0,0H20.467a0,0,0,0,1,0,0V19.665a0,0,0,0,1,0,0H3a3,3,0,0,1-3-3V0A0,0,0,0,1,0,0Z" transform="translate(0 27.229)" fill="#8194fc"/>
+      </g>
+      <g id="Group_6" data-name="Group 6" transform="translate(10.452 27.451)">
+        <rect id="Rectangle_4" data-name="Rectangle 4" width="7.564" height="37.818" transform="translate(0 9.076)" fill="#8292ff"/>
+        <g id="Polygon_1" data-name="Polygon 1" fill="#8292ff">
+          <path d="M 8.313503265380859 9.576203346252441 L 7.563503265380859 9.576203346252441 L 3.301620381535031e-06 9.576203346252441 L -0.7499967217445374 9.576203346252441 L -0.461536705493927 8.883893013000488 L 3.320213317871094 -0.1923068910837173 L 3.781753301620483 -1.299996852874756 L 4.243293285369873 -0.1923068910837173 L 8.025043487548828 8.883893013000488 L 8.313503265380859 9.576203346252441 Z" stroke="none"/>
+          <path d="M 3.781753301620483 2.86102294921875e-06 L 3.337860107421875e-06 9.076203346252441 L 7.563503265380859 9.076203346252441 L 3.781753301620483 2.86102294921875e-06 M 3.781753301620483 -2.599996566772461 L 4.704833030700684 -0.3846168518066406 L 8.486583709716797 8.691582679748535 L 9.063503265380859 10.07620334625244 L 7.563503265380859 10.07620334625244 L 3.337860107421875e-06 10.07620334625244 L -1.499996662139893 10.07620334625244 L -0.9230771064758301 8.691582679748535 L 2.858673095703125 -0.3846168518066406 L 3.781753301620483 -2.599996566772461 Z" stroke="none" fill="#8292ff"/>
+        </g>
+      </g>
+      <g id="Group_5" data-name="Group 5" transform="translate(41.248 49.385)">
+        <rect id="Rectangle_5" data-name="Rectangle 5" width="7.564" height="15.883" transform="translate(0 9.076)" fill="#626fff"/>
+        <g id="Polygon_2" data-name="Polygon 2" transform="translate(0 0)" fill="#626fff">
+          <path d="M 8.313503265380859 9.576203346252441 L 7.563503265380859 9.576203346252441 L 3.301620381535031e-06 9.576203346252441 L -0.7499967217445374 9.576203346252441 L -0.461536705493927 8.883893013000488 L 3.320213317871094 -0.1923068910837173 L 3.781753301620483 -1.299996852874756 L 4.243293285369873 -0.1923068910837173 L 8.025043487548828 8.883893013000488 L 8.313503265380859 9.576203346252441 Z" stroke="none"/>
+          <path d="M 3.781753301620483 2.86102294921875e-06 L 3.337860107421875e-06 9.076203346252441 L 7.563503265380859 9.076203346252441 L 3.781753301620483 2.86102294921875e-06 M 3.781753301620483 -2.599996566772461 L 4.704833030700684 -0.3846168518066406 L 8.486583709716797 8.691582679748535 L 9.063503265380859 10.07620334625244 L 7.563503265380859 10.07620334625244 L 3.337860107421875e-06 10.07620334625244 L -1.499996662139893 10.07620334625244 L -0.9230771064758301 8.691582679748535 L 2.858673095703125 -0.3846168518066406 L 3.781753301620483 -2.599996566772461 Z" stroke="none" fill="#626fff"/>
+        </g>
+      </g>
+      <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <path id="Polygon_3" data-name="Polygon 3" d="M11.345,0,22.691,69.584H0Z" transform="translate(18.426 4.826)" fill="#8292ff"/>
+      </g>
+      <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(29.7 0)" clip-path="url(#clip-path)">
+        <path id="Polygon_4" data-name="Polygon 4" d="M11.345,0,22.691,69.584H0Z" transform="translate(-11.416 4.826)" fill="#626fff"/>
+      </g>
+      <g id="Group_7" data-name="Group 7" transform="translate(6.67 73.999)">
+        <rect id="Rectangle_3" data-name="Rectangle 3" width="23.475" height="9.833" fill="#616ffe"/>
+        <rect id="Rectangle_8" data-name="Rectangle 8" width="23.475" height="9.833" transform="translate(23.139)" fill="#4347ff"/>
+      </g>
+    </g>
+  </g>
+</svg>
