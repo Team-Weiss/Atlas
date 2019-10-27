@@ -1,4 +1,4 @@
-# atlas
+# Atlas
 
 > A simple and lightweight SQL client with cross database and platform support. 
 
