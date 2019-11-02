@@ -53,6 +53,7 @@
     }
   },
   "dependencies": {
+    "@mysql/xdevapi": "^8.0.18",
     "axios": "^0.18.0",
     "postcss-loader": "^3.0.0",
     "tailwindcss": "^1.1.3",

@@ -5,7 +5,7 @@
       <Sidebar />
       <div class="main-content flex flex-col">
         <Editor />
-        <console-bar />
+        <Console />
       </div>
     </div>
   </div> 
@@ -15,14 +15,14 @@
 import Sidebar from './components/Sidebar'
 import Titlebar from './components/Titlebar'
 import Editor from './components/Editor'
-import ConsoleBar from './components/Console'
+import Console from './components/Console'
 
 export default {
   components: {
     Sidebar,
     Titlebar,
     Editor,
-    ConsoleBar
+    Console
   }
 }
 </script>
