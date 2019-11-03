@@ -16,7 +16,7 @@
 import tabs from './tabs'
 import help from './Help'
 import { codemirror } from 'vue-codemirror'
-import mysql from '../../../databases/mysql'
+// import mysql from '@/databases/mysql'
 
 // Language
 import 'codemirror/mode/sql/sql'
@@ -121,7 +121,7 @@ export default {
       if (event.ctrlKey && event.shiftKey && event.key === 'Enter') {
         event.preventDefault()
         console.log(vm.tabsData[vm.selected].code.trim())
-        mysql.test()
+        // mysql.test()
       }
     })
   }
